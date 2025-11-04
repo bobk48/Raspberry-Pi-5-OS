@@ -7,13 +7,11 @@ Notes:
    yields the following partial output-
    System:
 
-  Host: raspberrypi Kernel: 6.12.47+rpt-rpi-2712 arch: aarch64 bits: 64
-    compiler: gcc v: 14.2.0
-  Desktop: LXDE v: N/A Distro: Debian GNU/Linux 13 (trixie)
+   Host: raspberrypi Kernel: 6.12.47+rpt-rpi-2712 arch: aarch64 bits: 64
+    compiler: gcc v: 14.2.0 Desktop: LXDE v: N/A Distro: Debian GNU/Linux 13 (trixie)
 
-  Machine:
-  Type: ARM System: Raspberry Pi 5 Model B Rev 1.0 details: N/A rev: c04170
-    serial: a5b3f4f94c31353d
+   Machine:
+   Type: ARM System: Raspberry Pi 5 Model B Rev 1.0 details: N/A rev: ...
 
 6. If you want to run the Debian Trixie version of the Raspberry Pi OS,
    you should do it as a bare metal install on a fresh microSD card,
