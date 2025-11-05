@@ -5,7 +5,9 @@ Notes:
 
 * The inxi command (with options) on my Debian Trixie Raspberry Pi OS
    yields the following partial output-
-   System:
+
+  System:
+
    Host: raspberrypi Kernel: 6.12.47+rpt-rpi-2712 arch: aarch64 bits: 64
     compiler: gcc v: 14.2.0 Desktop: LXDE v: N/A Distro: Debian GNU/Linux 13 (trixie)
 
@@ -19,7 +21,7 @@ Notes:
    version, and will keep you posted about any differences (if any)
    between the Debian Bookworm version and the Debian Trixie version.
 
-* In Chapter 2, page 210, the sudo who -r coomand can be replaced with
+* In Chapter 2, page 210, the sudo who -r command can be replaced with
   the following bash command to obtain the legacy run level:
 
   systemctl get-default | sed -E 's/.target$//' | awk '
