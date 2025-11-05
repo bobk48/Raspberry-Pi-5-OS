@@ -21,11 +21,17 @@ Notes:
 
 * In Chapter 2, page 210, the sudo who -r coomand can be replaced with
   the following bash command to obtain the legacy run level:
+
   systemctl get-default | sed -E 's/.target$//' | awk '
+
   $0=="graphical"     {print 5; exit}
+
   $0=="multi-user"    {print 3; exit}
+
   $0=="rescue"        {print 1; exit}
+
   $0=="emergency"     {print 0; exit}
+
   {print "unknown"}'
 
 * In Chapter 3, whenever you're using Way 3 (Import Script Mode)
