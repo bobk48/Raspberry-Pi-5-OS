@@ -21,6 +21,12 @@ Notes:
    version, and will keep you posted about any differences (if any)
    between the Debian Bookworm version and the Debian Trixie version.
 
+* On page 37, step 1., the client# command should read:
+
+     sudo apt install ftp
+
+  instead of sudo install ftp
+
 * In Chapter 2, page 210, the sudo who -r command can be replaced with
   the following bash command to obtain the legacy run level:
 
