@@ -27,6 +27,11 @@ Notes:
 
   instead of sudo install ftp
 
+* Section 1.2.4 works exactly as shown in the Trixie version of
+   the Raspberry Pi OS. In step 4.d. on page 50, the reboot then
+   happens from the uninitialized NVMe device, so you have to go
+   through the steps to setup the system on the NVMe device.
+
 * In Chapter 2, page 210, the sudo who -r command can be replaced with
   the following bash command to obtain the legacy run level:
 
@@ -47,11 +52,6 @@ Notes:
    going to import into Python3 with the command:
 
    chmod u+x filename 
-
-* Section 1.2.4 works exactly as shown in the Trixie version of
-   the Raspberry Pi OS. In step 4.d. on page 50, the reboot then
-   happens from the uninitialized NVMe device, so you have to go
-   through the steps to setup the system on the NVMe device.
 
 * The website for this book at Taylor & Francis is as follows-
    
