@@ -5,11 +5,9 @@ I've put all the Notes & Errata in the file Notes.docx
 
 As new information becomes available, I'll be updating that file.
 
-I'm also working on a .docx file that shows how to use CUPS to remote
+I've added the instructions for remote CUPS printing on your WiFi network
 
-print from LibreOffice on a Raspberry Pi 5 to another Pi that has
-
-a USB printer atached to it, via WiFi. Look for that soon!
+in the file remote_print.docx.
 
 * The website for this book at Taylor & Francis is as follows-
    
@@ -23,4 +21,4 @@ a USB printer atached to it, via WiFi. Look for that soon!
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/7/2025
+Last modified 11/8/2025
