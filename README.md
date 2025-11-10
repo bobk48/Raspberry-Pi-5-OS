@@ -6,7 +6,6 @@ I've put all the Notes & Errata in the file Notes.docx
 As new information becomes available, I'll be updating that file.
 
 I've added the instructions for remote CUPS printing on your WiFi network
-
 in the file remote_print.docx.
 
 * The website for this book at Taylor & Francis is as follows-
@@ -21,4 +20,4 @@ in the file remote_print.docx.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/8/2025
+Last modified 11/10/2025
