@@ -10,7 +10,7 @@ in the file remote_print.docx.
 
 I've also added an extra chapter for your use on the git command, and GitHub.
 It's in the file Extra_git.docx. I hope it's useful for you! I've also included
-an In-Chapter Exercise solutions file for it, named Extra_git-ICE_ans.docx.
+an In-Chapter Exercise solutions file for it, named Extra_git_ICE_ans.docx.
 
 * The website for this book at Taylor & Francis is as follows-
    
