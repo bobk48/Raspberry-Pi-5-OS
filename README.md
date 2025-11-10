@@ -8,6 +8,9 @@ As new information becomes available, I'll be updating that file.
 I've added the instructions for remote CUPS printing on your WiFi network
 in the file remote_print.docx.
 
+I've also aded an extra chapter for your use on the git command, and GitHub.
+It's in the file Extra_git.docx. I hope it's useful for you!
+
 * The website for this book at Taylor & Francis is as follows-
    
    https://www.routledge.com/Raspberry-Pi-5-System-Administration-Basics/Koretsky/p/book/9781041099031
