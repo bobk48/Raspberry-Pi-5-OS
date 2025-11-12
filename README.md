@@ -12,6 +12,11 @@ I've also added an extra chapter for your use on the git command, and GitHub.
 It's in the file Extra_git.docx. I hope it's useful for you! I've also included
 an In-Chapter Exercise solutions file for it, named Extra_git_ICE_ans.docx.
 
+In addition, I've added a complete chapter on text editing with nano, vi, vim
+and gvim along with some Geany use. It's found at Text_Editors.docx. With it,
+I also added a In-Chapter Exercise solutions file named Text_Editors_ICE. docx.
+I hope beginners find this info on editors helpful!
+
 * The website for this book at Taylor & Francis is as follows-
    
    https://www.routledge.com/Raspberry-Pi-5-System-Administration-Basics/Koretsky/p/book/9781041099031
@@ -24,4 +29,4 @@ an In-Chapter Exercise solutions file for it, named Extra_git_ICE_ans.docx.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/10/2025
+Last modified 11/12/2025
