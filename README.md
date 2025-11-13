@@ -17,6 +17,10 @@ and gvim along with some Geany use. It's found at Text_Editors.docx. With it,
 I also added a In-Chapter Exercise solutions file named Text_Editors_ICE. docx.
 I hope beginners find this info on editors helpful!
 
+Finally, I've added a complete chapter on ZFS, in a file named ZFS.docx
+This extra chapter supplements the Section 1.9 in Chapter 1 of the book.
+It is intended for more experienced users of the Raspberry Pi 5 OS.
+
 * The website for this book at Taylor & Francis is as follows-
    
    https://www.routledge.com/Raspberry-Pi-5-System-Administration-Basics/Koretsky/p/book/9781041099031
@@ -29,4 +33,4 @@ I hope beginners find this info on editors helpful!
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/12/2025
+Last modified 11/13/2025
