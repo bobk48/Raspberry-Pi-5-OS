@@ -18,7 +18,8 @@ I also added a In-Chapter Exercise solutions file named Text_Editors_ICE. docx.
 I hope beginners find this info on editors helpful!
 
 Finally, I've added a complete chapter on ZFS, in a file named ZFS.docx
-This extra chapter supplements the Section 1.9 in Chapter 1 of the book.
+And the In-Chapter Exercise Solutions for it in ZFS_ICE.docx.
+This extra chapter supplements Section 1.9 in Chapter 1 of the book.
 It is intended for more experienced users of the Raspberry Pi 5 OS.
 
 * The website for this book at Taylor & Francis is as follows-
