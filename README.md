@@ -14,12 +14,12 @@ an In-Chapter Exercise solutions file for it, named Extra_git_ICE_ans.docx.
 
 In addition, I've added a complete chapter on text editing with nano, vi, vim
 and gvim along with some Geany use. It's found at Text_Editors.docx. With it,
-I also added a In-Chapter Exercise solutions file named Text_Editors_ICE. docx.
+I also added a In-Chapter Exercise solutions file named Text_Editors_ICE.docx.
 I hope beginners find this info on editors helpful!
 
-Finally, I've added a complete chapter on ZFS, in a file named ZFS.docx
+Finally, I've added a complete chapter on ZFS, in a file named ZFS.docx.
 And the In-Chapter Exercise Solutions for it in ZFS_ICE.docx.
-This extra chapter supplements Section 1.9 in Chapter 1 of the book.
+This extra chapter supplements Section 1.9 in Chapter 1 of the printed book.
 It is intended for more experienced users of the Raspberry Pi 5 OS.
 
 * The website for this book at Taylor & Francis is as follows-
@@ -34,4 +34,4 @@ It is intended for more experienced users of the Raspberry Pi 5 OS.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/13/2025
+Last modified 11/14/2025
