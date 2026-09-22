@@ -43,4 +43,4 @@ It is intended for more experienced users of the Raspberry Pi 5 OS.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 11/14/2025
+Last modified 9/22/2026
