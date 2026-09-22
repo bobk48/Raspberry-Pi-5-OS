@@ -1,6 +1,15 @@
 # Raspberry-Pi-5-OS
 Raspberry Pi 5 OS System Administration Basics with systemd &amp; Python3
 
+I'm working currently on a Raspberry Pi 500+ and verifying that everything
+in this book works with the latest version of the Raspberry Pi OS. Specifically
+on a system as follows-
+Host: raspberrypi Kernel: 6.12.109+rpt-rpi-2712 arch: aarch64 bits: 64
+    compiler: N/A Desktop: LabWC Distro: Debian GNU/Linux 12 (bookworm)
+
+As new versions of the OS roll out, I will update the printed book to a
+2nd edition, for example as Debian upgrades its upstream version.
+
 I've put all the Notes & Errata in the file Notes.docx
 
 As new information becomes available, I'll be updating that file.
