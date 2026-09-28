@@ -1,11 +1,12 @@
 # Raspberry-Pi-5-OS
 Raspberry Pi 5 OS System Administration Basics with systemd &amp; Python3
 
-I'm working currently on a Raspberry Pi 500+ and verifying that everything
-in this book works with the latest version of the Raspberry Pi OS.
-
-As new versions of the OS roll out, I will update the printed book to a
-2nd edition, for example as Debian upgrades its upstream version.
+A new file in this repository, Concordance.docx, contains the updates and
+changes to the book that I've made to this date reflecting the OS based on
+Debian Trixie. As I go through the rest of the book, I will keep that file
+current. There are not that many significant differences in the material
+I cover in the 1st edition (the most current one so far!)
+Keep checking back here for a more complete Concordance.docx file!
 
 I've put all the Notes & Errata in the file Notes.docx
 
@@ -40,4 +41,4 @@ It is intended for more experienced users of the Raspberry Pi 5 OS.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 9/23/2026
+Last modified 9/28/2026
