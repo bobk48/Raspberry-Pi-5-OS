@@ -6,7 +6,8 @@ changes to the book that I've made to this date reflecting the OS based on
 Debian Trixie. As I go through the rest of the book, I will keep that file
 current. There are not that many significant differences in the material
 I cover in the 1st edition (the most current one so far!)
-Keep checking back here for a more complete Concordance.docx file!
+Keep checking back here for a more complete Concordance.docx file! I've made some
+minor additions to the Concordance.docx file as of the Last Modified date below.
 
 I've put all the Notes & Errata in the file Notes.docx
 
@@ -41,4 +42,4 @@ It is intended for more experienced users of the Raspberry Pi 5 OS.
 
    Chap0_ICE.docx, Chap1_ICE.docx, Chap2_ICE.docx, Chap3_ICE.docx
 
-Last modified 9/28/2026
+Last modified 9/30/2026
